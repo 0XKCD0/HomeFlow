@@ -38,7 +38,7 @@ Its a ongoing project so it will be the first version and many modifications are
 
 ## 📸 Screenshots
 
-*(Add screenshots here once your UI is ready)*
+
 
 ---
 
