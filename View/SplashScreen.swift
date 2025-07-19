@@ -53,7 +53,8 @@ struct SplashScreen: View {
             }
         }
         .fullScreenCover(isPresented: $isActive) {
-            OnboardingView()
+            LoginScreenView()
+//            OnboardingView()
             
         }
     }
